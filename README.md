@@ -9,7 +9,7 @@ A complete tour of classical (pre-deep-learning) machine learning algorithms —
 | # | Category | Description | Algorithms | Status |
 |---|----------|-------------|------------|--------|
 | 01 | [Regression](Regression/) | Predicting continuous values | 8 | 🚧 |
-| 02 | [Classification](Classification/) | Predicting discrete labels | 8 | 🚧 |
+| 02 | [Classification](Classification/) | Predicting discrete labels | 8 | ✅ |
 | 03 | [Ensemble Techniques](Ensemble_Techniques/) | Combining multiple models | 2 | 🚧 |
 | 04 | [Unsupervised](Unsupervised/) | Clustering & dimensionality reduction | 7 | 🚧 |
 | 05 | [Model Evaluation & Tuning](Model_Evaluation_Tuning/) | Validation, tuning, metrics | 4 | 🚧 |

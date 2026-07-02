@@ -11,7 +11,7 @@ Predicting discrete class labels from input features.
 | 05 | [Random Forest Classifier](05_Random_Forest_Classifier/) | Ensemble of trees, robust to overfitting | ✅ |
 | 06 | [SVM Classification](06_SVM_Classification/) | Maximum margin, kernel trick | ✅ |
 | 07 | [LDA & QDA](07_LDA_QDA/) | Discriminant analysis, dimensionality reduction | ✅ |
-| 08 | [Boosting Classifiers](08_Boosting_Classifiers/) | AdaBoost, XGBoost, LightGBM, CatBoost | 🚧 |
+| 08 | [Boosting Classifiers](08_Boosting_Classifiers/) | AdaBoost, XGBoost, LightGBM, CatBoost | ✅ |
 
 ---
 [← Back to Classical ML](../README.md)
