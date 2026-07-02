@@ -31,6 +31,10 @@ A complete tour of classical (pre-deep-learning) machine learning algorithms —
 
 Each algorithm folder contains its own `README.md` (concept + math explanation) and a Jupyter notebook (`.ipynb`) with hands-on implementation.
 
+## 📦 Datasets
+
+[**114 load-tested practice datasets**](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation/tree/main/datasets) live in the Foundation repo, mapped to each algorithm category above.
+
 ## 🔗 Related
 
 - [← Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation)
