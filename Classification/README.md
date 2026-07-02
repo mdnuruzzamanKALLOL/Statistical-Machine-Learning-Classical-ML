@@ -10,7 +10,7 @@ Predicting discrete class labels from input features.
 | 04 | [Decision Tree Classifier](04_Decision_Tree_Classifier/) | Interpretable rule-based classification | ✅ |
 | 05 | [Random Forest Classifier](05_Random_Forest_Classifier/) | Ensemble of trees, robust to overfitting | ✅ |
 | 06 | [SVM Classification](06_SVM_Classification/) | Maximum margin, kernel trick | ✅ |
-| 07 | [LDA & QDA](07_LDA_QDA/) | Discriminant analysis, dimensionality reduction | 🚧 |
+| 07 | [LDA & QDA](07_LDA_QDA/) | Discriminant analysis, dimensionality reduction | ✅ |
 | 08 | [Boosting Classifiers](08_Boosting_Classifiers/) | AdaBoost, XGBoost, LightGBM, CatBoost | 🚧 |
 
 ---
