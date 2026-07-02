@@ -33,7 +33,7 @@ Each algorithm folder contains its own `README.md` (concept + math explanation) 
 
 ## 📦 Datasets
 
-[**162 cataloged practice datasets**](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation/tree/main/datasets) (catalog + load code) live in the Foundation repo, mapped to each algorithm category above. The actual CSV files live in the central **[Datasets](https://github.com/mdnuruzzamanKALLOL/Datasets)** repo.
+All datasets — the 162-entry catalog ([CATALOG.md](https://github.com/mdnuruzzamanKALLOL/Datasets/blob/main/CATALOG.md)) and the actual CSV files — live in the central **[Datasets](https://github.com/mdnuruzzamanKALLOL/Datasets)** repo, mapped to each algorithm category above.
 
 ## 🔗 Related
 
