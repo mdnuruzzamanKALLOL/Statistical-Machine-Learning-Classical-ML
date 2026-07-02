@@ -4,7 +4,7 @@ Predicting continuous values from input features.
 
 | # | Algorithm | Use Case | Status |
 |---|-----------|----------|--------|
-| 01 | [Linear Regression](01_Linear_Regression/) | Simple linear relationships | 🚧 |
+| 01 | [Linear Regression](01_Linear_Regression/) | Simple linear relationships | ✅ |
 | 02 | [Polynomial Regression](02_Polynomial_Regression/) | Non-linear curve fitting | 🚧 |
 | 03 | [Ridge, Lasso & ElasticNet](03_Ridge_Lasso_ElasticNet/) | Regularized regression, feature selection | 🚧 |
 | 04 | [SVR](04_SVR/) | Robust regression with kernels | 🚧 |
