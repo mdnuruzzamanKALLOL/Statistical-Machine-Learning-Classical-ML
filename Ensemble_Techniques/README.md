@@ -4,7 +4,7 @@ Combining multiple models to improve predictive performance.
 
 | # | Technique | Use Case | Status |
 |---|-----------|----------|--------|
-| 01 | [Bagging](01_Bagging/) | Bootstrap Aggregating — variance reduction | 🚧 |
+| 01 | [Bagging](01_Bagging/) | Bootstrap Aggregating — variance reduction | ✅ |
 | 02 | [Voting & Stacking](02_Voting_Stacking/) | Combining heterogeneous models | 🚧 |
 
 ---
