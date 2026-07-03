@@ -10,7 +10,7 @@ Finding structure in unlabeled data.
 | 04 | [Gaussian Mixture Models](04_Gaussian_Mixture_Models/) | Soft/probabilistic clustering | ✅ |
 | 05 | [PCA](05_PCA/) | Dimensionality reduction | ✅ |
 | 06 | [t-SNE & UMAP](06_TSNE_UMAP/) | Non-linear visualization of high-dim data | ✅ |
-| 07 | [Association Rules (Apriori)](07_Association_Rules_Apriori/) | Market basket analysis | 🚧 |
+| 07 | [Association Rules (Apriori)](07_Association_Rules_Apriori/) | Market basket analysis | ✅ |
 
 ---
 [← Back to Classical ML](../README.md)

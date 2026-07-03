@@ -4,6 +4,8 @@ Part of the [📘 Statistical Machine Learning for Noob](https://github.com/mdnu
 
 A complete tour of classical (pre-deep-learning) machine learning algorithms — regression, classification, ensembles, unsupervised learning, and model evaluation.
 
+**Status: 🎉 Complete** — all 5 categories, 29 algorithm topics, each with a deep-dive README and a fully executed Jupyter notebook (30+ code cells, verified against reference implementations, every claimed result checked against actual execution output).
+
 ## 📚 Categories
 
 | # | Category | Description | Algorithms | Status |
@@ -11,7 +13,7 @@ A complete tour of classical (pre-deep-learning) machine learning algorithms —
 | 01 | [Regression](Regression/) | Predicting continuous values | 8 | ✅ |
 | 02 | [Classification](Classification/) | Predicting discrete labels | 8 | ✅ |
 | 03 | [Ensemble Techniques](Ensemble_Techniques/) | Combining multiple models | 2 | ✅ |
-| 04 | [Unsupervised](Unsupervised/) | Clustering & dimensionality reduction | 7 | 🚧 |
+| 04 | [Unsupervised](Unsupervised/) | Clustering & dimensionality reduction | 7 | ✅ |
 | 05 | [Model Evaluation & Tuning](Model_Evaluation_Tuning/) | Validation, tuning, metrics | 4 | ✅ |
 
 ## ⚖️ Algorithm Comparison (quick reference)
