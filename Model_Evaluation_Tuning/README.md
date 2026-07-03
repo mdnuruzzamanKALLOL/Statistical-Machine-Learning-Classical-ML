@@ -11,3 +11,6 @@ Cross-cutting techniques applied after any algorithm above — validation, tunin
 
 ---
 [← Back to Classical ML](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Model_Evaluation_Tuning&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

@@ -132,3 +132,6 @@ Unlike the elbow method or silhouette score (both heuristics with no direct conn
 
 ---
 [← Back to Unsupervised](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Unsupervised.04_Gaussian_Mixture_Models&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

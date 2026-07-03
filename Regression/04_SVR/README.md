@@ -124,3 +124,6 @@ measures similarity that decays with distance, controlled by $\gamma$ — small 
 
 ---
 [← Back to Regression](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Regression.04_SVR&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

@@ -129,3 +129,6 @@ Based on this notebook's own measured results, not just general theory:
 
 ---
 [← Back to Regression](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Regression.03_Ridge_Lasso_ElasticNet&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

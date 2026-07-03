@@ -125,3 +125,6 @@ Naive agglomerative clustering must find the closest pair among all active clust
 
 ---
 [← Back to Unsupervised](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Unsupervised.02_Hierarchical_Clustering&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

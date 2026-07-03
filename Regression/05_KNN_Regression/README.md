@@ -125,3 +125,6 @@ As full derived in the KNN Classification topic: in high dimensions, the ratio b
 
 ---
 [← Back to Regression](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Regression.05_KNN_Regression&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

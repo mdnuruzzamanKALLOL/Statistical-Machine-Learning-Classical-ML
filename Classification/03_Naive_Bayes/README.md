@@ -165,3 +165,6 @@ Using the wrong variant for a feature type (e.g. `GaussianNB` on raw word counts
 
 ---
 [← Back to Classification](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Classification.03_Naive_Bayes&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

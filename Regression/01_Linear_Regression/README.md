@@ -147,3 +147,6 @@ Each coefficient's standard error is the square root of the corresponding diagon
 
 ---
 [← Back to Regression](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Regression.01_Linear_Regression&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)

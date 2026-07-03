@@ -130,3 +130,6 @@ UMAP is grounded in manifold learning and fuzzy topology rather than SNE's proba
 
 ---
 [← Back to Unsupervised](../README.md)
+
+<!-- page-views-badge -->
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Unsupervised.06_TSNE_UMAP&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)
