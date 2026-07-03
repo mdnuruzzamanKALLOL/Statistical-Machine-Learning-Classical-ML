@@ -4,7 +4,7 @@ Finding structure in unlabeled data.
 
 | # | Algorithm | Use Case | Status |
 |---|-----------|----------|--------|
-| 01 | [K-Means Clustering](01_KMeans_Clustering/) | Centroid-based partitioning | 🚧 |
+| 01 | [K-Means Clustering](01_KMeans_Clustering/) | Centroid-based partitioning | ✅ |
 | 02 | [Hierarchical Clustering](02_Hierarchical_Clustering/) | Dendrogram-based nested clusters | 🚧 |
 | 03 | [DBSCAN](03_DBSCAN/) | Density-based clustering, outlier detection | 🚧 |
 | 04 | [Gaussian Mixture Models](04_Gaussian_Mixture_Models/) | Soft/probabilistic clustering | 🚧 |
