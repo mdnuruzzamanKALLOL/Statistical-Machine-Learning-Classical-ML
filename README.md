@@ -42,4 +42,8 @@ All datasets — the 162-entry catalog ([CATALOG.md](https://github.com/mdnuruzz
 - [← Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation)
 
 <!-- page-views-badge -->
-![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.root&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)
+<div align="center" style="margin-top: 16px;">
+
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.root&left_color=%23FF6F00&right_color=%230e75b6&left_text=Page%20Views)
+
+</div>

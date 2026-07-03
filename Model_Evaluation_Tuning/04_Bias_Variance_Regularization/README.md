@@ -143,4 +143,8 @@ Both penalties act on raw coefficient magnitude. If features have different scal
 [← Back to Model Evaluation & Tuning](../README.md)
 
 <!-- page-views-badge -->
-![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Model_Evaluation_Tuning.04_Bias_Variance_Regularization&left_color=%23555555&right_color=%23E67E22&left_text=Page%20Views)
+<div align="center" style="margin-top: 16px;">
+
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.ClassicalML.Model_Evaluation_Tuning.04_Bias_Variance_Regularization&left_color=%23FF6F00&right_color=%230e75b6&left_text=Page%20Views)
+
+</div>
